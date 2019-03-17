@@ -1,0 +1,13 @@
+/give @p minecraft:written_book 1 0 {title:"《TPER greatitor book》",author:"Taperingsky",pages:["{\"text\":\"\",\"extra\":[{\"text\":\"       \u00a74*TPER greatitor*\n*---------------------------*\n\u00a7l前言[废话]\n\u00a74*<TPER·greatitor>这是前代版本\n\u00a74其实我起了个好听的名字=v=\n\u00a74*在对于这个系统的开发上，我\n\u00a74做出来是希望你们来维持\u00a74\\u00a74游 \u00a74戏\\u00a74平\u00a74衡\u00a74的！\n\u00a74*记住,投票是神圣的！\n*---------------------------*\"},{\"text\":\"\n\u00a7l[0:点击前请三思！]\"},{\"text\":\"\n\n            \u00a7l\u00a74start\",\"hoverEvent\":{\"action\":\"show_text\",\"value\":\"\u00a7e点击开始投票，将会有全局系统！\"},\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/trigger TP set 1\"}},{\"text\":\"\n*Tps:一旦发起将不能撤回！\"}]}"]}
+/tellraw Tapersky [{"text":"\u00a7e*--------------------*\n\u00a76您好，系统将会全局帮\n\u00a76你服务！首先选择你要\n\u00a76投诉的人！"},{"text":"\n\u00a7a[鼠标悬浮此处]","hoverEvent":{"action":"show_text","value":"\u00a7e如果你不知道如何选择玩家，\n\u00a7e那么按下键盘最上排的数字1\n\u00a7e键可传送到玩家或队伍！接下\n\u00a7e来点击他来获取其视角，最后\n\u00a7e点击\u00a7a[选择完毕]\u00a7e！"}},{"text":"\n\u00a7e*--------------------*"},{"text":"\n   \u00a7a[选择完毕]","clickEvent":{"action":"run_command","value":"/scoreboard players set @p[m=2] TPER 1"}}]
+
+
+
+
+
+
+
+
+*-----------------------------------------------------------------------------------------------------------------*
+思路：
+玩家触发TP开始值,被迫选择TPER者，变成旁观者模式，选择时启用(/scoreboard players set @p[m=2] TPER 1)TPER值加1，另外循环开启(/scoreboard team join TPER @a[score_TPER_min=1]),再侦测(/testfor @a[team=TPER])侦测到就将TP值为1的玩家加入tag=N,并且向其他玩家发送一则短信，/gamemode 2 @a[tag=N],
