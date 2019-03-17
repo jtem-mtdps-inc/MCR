@@ -1,0 +1,9 @@
+/execute @a[tag=b] ~ ~ ~ /fill ~ ~-1 ~ ~ ~-1 ~ minecraft:glass 0 replace minecraft:air 0
+fill block %air to >>> glass
+/execute @a[tag=b] ~ ~ ~ /fill ~-1 ~-1 ~-1 ~1 ~-2 ~1 minecraft:air 0 replace minecraft:glass 0
+fill block %glass to >>> air
+
+
+/execute @a[tag=b] ~ ~ ~ /fill ~ ~-1 ~ ~ ~-1 ~ minecraft:glass 0 replace minecraft:air 0
+/execute @a[tag=b,score_¶×Æð_min=1] ~ ~ ~ fill ~ ~-1 ~ ~ ~-1 ~ air 0 replace glass
+/scoreboard players set @a[tag=b,score_¶×Æð_min=1] ¶×Æð 0
