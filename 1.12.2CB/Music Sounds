@@ -1,0 +1,66 @@
+/playsound minecraft:block.note.harp master @a ~ ~ ~ 1 0.89 1
+音色:
+block.note.basedrum
+block.note.bass
+block.note.harp
+block.note.hat
+block.note.pling
+block.note.snare
+
+
+
+
+/playsound
+F#G 0 0.5                                      c
+G 1 0.529                                      /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 0.529 1
+G#A 2 0.561                                    /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 0.561 1
+A 3 0.594                                      /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 0.594 1
+A#B 4 0.629                                    /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 0.629 1
+B 5 0.667                                      /playsound minecraft:block.note.harp master @a~ ~ ~ 1 0.667 1
+C 6 0.707                                      /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 0.707 1
+C#D 7 0.749                                    /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 0.749 1
+D 8 0.793                                      /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 0.793 1
+D#E 9 0.840                                    /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 0.840 1
+E 10 0.890                                     /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 0.890 1
+F 11 0.943                                     /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 0.943 1
+F#G 12 1                                       /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 1 1
+---------------------------------------------
+
++-------------------------------------------------------------------------------------------+
+13 1.059                                       /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 1.059 1
+14 1.122                                       /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 1.122 1
+15 1.189                                       /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 1.189 1
+16 1.259                                       /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 1.259 1
+17 1.334                                       /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 1.334 1
+18 1.414                                       /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 1.414 1
+19 1.498                                       /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 1.498 1
+20 1.587                                       /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 1.587 1
+21 1.681                                       /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 1.681 1
+22 1.781                                       /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 1.781 1
+23 1.887                                       /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 1.887 1
+24 2                                           /playsound minecraft:block.note.harp master @a ~ ~ ~ 1 2 1
+应用于地图的测试坐标:
+1  /summon minecraft:falling_block 30 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+2  /summon minecraft:falling_block 39 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+3  /summon minecraft:falling_block 28 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+4  /summon minecraft:falling_block 27 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+5  /summon minecraft:falling_block 26 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+6  /summon minecraft:falling_block 25 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+7  /summon minecraft:falling_block 24 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+8  /summon minecraft:falling_block 23 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+9  /summon minecraft:falling_block 22 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+10 /summon minecraft:falling_block 21 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+11 /summon minecraft:falling_block 20 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+12 /summon minecraft:falling_block 19 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+13 /summon minecraft:falling_block 18 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+14 /summon minecraft:falling_block 17 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+15 /summon minecraft:falling_block 16 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+16 /summon minecraft:falling_block 15 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+17 /summon minecraft:falling_block 14 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+18 /summon minecraft:falling_block 13 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+19 /summon minecraft:falling_block 12 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+20 /summon minecraft:falling_block 11 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+21 /summon minecraft:falling_block 10 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+22 /summon minecraft:falling_block 9 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+23 /summon minecraft:falling_block 8 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
+24 /summon minecraft:falling_block 7 ~20 -1103 {Block:"minecraft:redstone_block",id:"minecraft:falling_block",Time:30}
