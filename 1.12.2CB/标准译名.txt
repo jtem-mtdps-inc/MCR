@@ -1,0 +1,1235 @@
+Minecraft Wiki:译名标准化
+目录   
+1	游戏内容中文译名标准化
+1.1	对自身英文水准不甚自信的翻译者的建议
+1.2	关于译名重定向页面
+1.3	繁体/正体中文译名
+2	方块
+3	物品
+4	实体/药水/效果
+5	附魔
+6	游戏难度和模式
+7	游戏版本及更新
+8	游戏内各数据值
+9	生物群系
+10	结构
+11	其他
+
+
+
+
+方块
+英文名称	中文名称
+Acacia Bark	金合欢树皮
+Acacia Button	金合欢木按钮
+Acacia Door	金合欢木门
+Acacia Fence	金合欢栅栏
+Acacia Fence Gate	金合欢栅栏门
+Acacia Leaves	金合欢树叶
+Acacia Pressure Plate	金合欢木压力板
+Acacia Sapling	金合欢树苗
+Acacia Trapdoor	金合欢木活板门
+Acacia Wood	金合欢木
+Acacia Wood Planks	金合欢木板
+Acacia Wood Slab	金合欢台阶
+Acacia Wood Stairs	金合欢楼梯
+Activator Rail	激活铁轨
+Air	空气
+Allium	绒球葱
+Andesite	安山岩
+Anvil	铁砧
+Armor Stand	盔甲架
+Azure Bluet	茜草花
+Banner	旗帜
+Bark	树皮
+Barrier	屏障
+Beacon	信标
+Bed	床
+Bedrock	基岩
+Birch Bark	白桦树皮
+Birch Button	白桦木按钮
+Birch Door	白桦木门
+Birch Fence	白桦木栅栏
+Birch Fence Gate	白桦木栅栏门
+Birch Leaves	白桦树叶
+Birch Pressure Plate	白桦木压力板
+Birch Sapling	白桦树苗
+Birch Trapdoor	白桦木活板门
+Birch Wood	白桦木
+Birch Wood Planks	白桦木板
+Birch Wood Slab	白桦木台阶
+Birch Wood Stairs	白桦木楼梯
+Block Of Coal	煤炭块
+Block Of Diamond	钻石块
+Block Of Emerald	绿宝石块
+Block Of Gold	金块
+Block Of Iron	铁块
+Block Of Quartz	石英块
+Block Of Redstone	红石块
+Blue Ice	蓝冰
+Blue Orchid	兰花
+Bone Block	骨块
+Bookshelf	书架
+英文名称	中文名称
+Brain Coral	脑纹珊瑚
+Brain Coral Block	脑纹珊瑚块
+Brain Coral Fan	脑纹珊瑚扇
+Brewing Stand	酿造台
+Brick Stairs	砖块楼梯
+Bricks	砖块
+Bricks Slab	砖块台阶
+Brown Mushroom	棕色蘑菇
+Bubble Coral	气泡珊瑚
+Bubble Coral Block	气泡珊瑚块
+Bubble Coral Fan	气泡珊瑚扇
+Button	按钮
+Cactus	仙人掌
+Cake	蛋糕
+Carpet	地毯
+Cauldron	炼药锅
+Chain Command Block	连锁型命令方块
+Chest	箱子
+Chipped Anvil	开裂的铁砧
+Chiseled Quartz Block	錾制石英块
+Chiseled Red Sandstone	錾制红砂岩
+Chiseled Sandstone	錾制砂岩
+Chiseled Stone Brick	錾制石砖
+Chiseled Stone Bricks	錾制石砖
+Chiseled Stone Bricks Monster Egg	錾制石砖怪物蛋
+Chorus Flower	紫颂花
+Chorus Plant	紫颂植物
+Clay (Block)	粘土块
+Coal Ore	煤矿石
+Coarse Dirt	砂土
+Cobblestone	圆石
+Cobblestone Monster Egg	圆石怪物蛋
+Cobblestone Slab	圆石台阶
+Cobblestone Stairs	圆石楼梯
+Cobblestone Wall	圆石墙
+Cobweb	蜘蛛网
+Cocoa	可可果
+Command Block	命令方块
+Concrete	混凝土
+Concrete Powder	混凝土粉末
+Conduit	潮涌核心
+Coral Block	珊瑚块
+Corals	珊瑚块
+Cracked Stone Brick	裂石砖
+Cracked Stone Bricks	裂石砖
+Cracked Stone Bricks Monster Egg	裂石砖怪物蛋
+Crafting Table	工作台
+Creeper Head	爬行者的头
+Damaged Anvil	损坏的铁砧
+Dandelion	蒲公英
+英文名称	中文名称
+Dark Oak Bark	深色橡树树皮
+Dark Oak Button	深色橡木按钮
+Dark Oak Door	深色橡木门
+Dark Oak Fence	深色橡木栅栏
+Dark Oak Fence Gate	深色橡木栅栏门
+Dark Oak Leaves	深色橡树树叶
+Dark Oak Pressure Plate	深色橡木压力板
+Dark Oak Sapling	深色橡树树苗
+Dark Oak Trapdoor	深色橡木活板门
+Dark Oak Wood	深色橡木
+Dark Oak Wood Planks	深色橡木木板
+Dark Oak Wood Slab	深色橡木台阶
+Dark Oak Wood Stairs	深色橡木楼梯
+Dark Prismarine	暗海晶石
+Dark Prismarine Slab	暗海晶石台阶
+Dark Prismarine Stairs	暗海晶石楼梯
+Daylight Sensor	阳光传感器
+Dead Brain Coral Block	失活的脑纹珊瑚块
+Dead Bubble Coral Block	失活的气泡珊瑚块
+Dead Bush	枯死的灌木
+Dead Fire Coral Block	失活的火珊瑚块
+Dead Horn Coral Block	失活的鹿角珊瑚块
+Dead Tube Coral Block	失活的管珊瑚块
+Detector Rail	探测铁轨
+Diamond Block	钻石块
+Diamond Ore	钻石矿石
+Diorite	闪长岩
+Dirt	泥土
+Dispenser	发射器
+Door	门
+Double Tallgrass	双草丛
+Dragon Egg	龙蛋
+Dragon Head	龙首
+Dried Kelp Block	干海带块
+Dropper	投掷器
+Dry Sponge	海绵
+Dyed Terracotta	染色陶瓦
+Dyed Wool	染色羊毛
+Emerald Ore	绿宝石矿石
+Enchanting Table	附魔台
+Enchantment Table	附魔台
+End Crystal	末影水晶
+End Gateway	末地折跃门方块
+End Gateway (Block)	末地折跃门方块
+End Portal	末地传送门方块
+End Portal (Block)	末地传送门框架
+End Portal Frame	末地传送门框架
+End Rod	末地烛
+End Stone	末地石
+End Stone Bricks	末地石砖
+英文名称	中文名称
+Ender Chest	末影箱
+Farmland	耕地
+Fence	栅栏
+Fence Gate	栅栏门
+Fern	蕨
+Fire	火
+Fire Coral	火珊瑚
+Fire Coral Block	火珊瑚块
+Fire Coral Fan	火珊瑚扇
+Flower	花
+Flower Pot	花盆
+Flowers	花
+Frosted Ice	霜冰
+Furnace	熔炉
+Glass	玻璃
+Glass Pane	玻璃板
+Glazed Terracotta	带釉陶瓦
+Glowstone	荧石
+Gold Block	金块
+Gold Ore	金矿石
+Gold Pressure Plate	测重压力板（轻质）
+Granite	花岗岩
+Grass	草丛
+Grass Block	草方块
+Grass Path	草径
+Gravel	沙砾
+Hardened Clay	硬化粘土
+Hay Bale	干草块
+Hay Block	干草块
+Head	头颅
+Hopper	漏斗
+Horn Coral	鹿角珊瑚
+Horn Coral Block	鹿角珊瑚块
+Horn Coral Fan	鹿角珊瑚扇
+Huge Brown Mushroom	棕色巨型蘑菇
+Huge Red Mushroom	红色巨型蘑菇
+Ice	冰
+Impulse Command Block	脉冲型命令方块
+Inverted Daylight Sensor	反向阳光传感器
+Iron Bars	铁栏杆
+Iron Block	铁块
+Iron Door	铁门
+Iron Nugget	铁粒
+Iron Ore	铁矿石
+Iron Pressure Plate	测重压力板（重质）
+Iron Trapdoor	铁活板门
+Jack O'Lantern	南瓜灯
+Jack-O-Lantern	南瓜灯
+Jukebox	唱片机
+Jungle Bark	丛林树皮
+英文名称	中文名称
+Jungle Button	丛林木按钮
+Jungle Door	丛林木门
+Jungle Fence	丛林木栅栏
+Jungle Fence Gate	丛林木栅栏门
+Jungle Leaves	丛林树叶
+Jungle Pressure Plate	丛林木压力板
+Jungle Sapling	丛林树苗
+Jungle Trapdoor	丛林木活板门
+Jungle Wood	丛林木
+Jungle Wood Planks	丛林木板
+Jungle Wood Slab	丛林台阶
+Jungle Wood Stairs	丛林楼梯
+Ladder	梯子
+Lapis Lazuli Block	青金石块
+Lapis Lazuli Ore	青金石矿石
+Large Fern	大型蕨
+Lava	熔岩
+Leaves	树叶
+Lever	拉杆
+Lilac	欧丁香
+Lily Pad	睡莲
+Locked Chest	上锁的箱子
+Magma Block	岩浆块
+Melon (Block)	西瓜
+Melon Stem	西瓜梗
+Mob Head	生物头颅
+Monster Egg	怪物蛋
+Monster Spawner	刷怪箱
+Moss Stone	苔石
+Mossy Cobblestone Wall	苔石墙
+Mossy Stone Brick	苔石砖
+Mossy Stone Bricks	苔石砖
+Mossy Stone Bricks Monster Egg	苔石砖怪物蛋
+Mushroom	蘑菇
+Mushroom (Block)	蘑菇方块
+Mushrooms	蘑菇
+Mycelium	菌丝
+Nether Brick	地狱砖块
+Nether Brick Fence	地狱砖栅栏
+Nether Brick Slab	地狱砖台阶
+Nether Brick Stairs	地狱砖楼梯
+Nether Portal	下界传送门
+Nether Quartz Ore	下界石英矿石
+Nether Wart	地狱疣
+Nether Wart Block	地狱疣块
+Netherrack	地狱岩
+Note Block	音符盒
+Oak Bark	橡树树皮
+Oak Button	橡木按钮
+Oak Door	橡木门
+英文名称	中文名称
+Oak Fence	橡木栅栏
+Oak Fence Gate	橡木栅栏门
+Oak Leaves	橡树树叶
+Oak Pressure Plate	橡木压力板
+Oak Sapling	橡树树苗
+Oak Trapdoor	橡木活板门
+Oak Wood	橡木
+Oak Wood Planks	橡木木板
+Oak Wood Slab	橡木台阶
+Oak Wood Stairs	橡木楼梯
+Observer	侦测器
+Obsidian	黑曜石
+Orange Tulip	橙色郁金香
+Oxeye Daisy	滨菊
+Packed Ice	浮冰
+Peony	牡丹
+Pillar Quartz Block	竖纹石英块
+Pink Tulip	粉红色郁金香
+Piston	活塞
+Podzol	灰化土
+Polished Andesite	磨制安山岩
+Polished Diorite	磨制闪长岩
+Polished Granite	磨制花岗岩
+Poppy	虞美人
+Portal	传送门
+Powered Rail	充能铁轨
+Pressure Plate	压力板
+Prismarine	海晶石
+Prismarine Brick Slab	海晶石砖台阶
+Prismarine Brick Stairs	海晶石砖楼梯
+Prismarine Bricks	海晶石砖
+Prismarine Slab	海晶石台阶
+Prismarine Stairs	海晶石楼梯
+Pumpkin	南瓜
+Pumpkin Stem	南瓜梗
+Purpur Block	紫珀块
+Purpur Pillar	竖纹紫珀块
+Purpur Slab	紫珀块台阶
+Purpur Stair	紫珀块楼梯
+Purpur Stairs	紫珀块楼梯
+Quartz Block	石英块
+Quartz Slab	石英台阶
+Quartz Stairs	石英楼梯
+Rail	铁轨
+Red Mushroom	红色蘑菇
+Red Nether Brick	红色地狱砖块
+Red Nether Bricks	红色地狱砖块
+Red Sand	红沙
+Red Sandstone	红砂岩
+Red Sandstone Slab	红砂岩台阶
+英文名称	中文名称
+Red Sandstone Stairs	红砂岩楼梯
+Red Tulip	红色郁金香
+Redstone Block	红石块
+Redstone Comparator	红石比较器
+Redstone Lamp	红石灯
+Redstone Ore	红石矿石
+Redstone Repeater	红石中继器
+Redstone Torch	红石火把
+Redstone Wire	红石线
+Repeating Command Block	循环型命令方块
+Rose Bush	玫瑰丛
+Sand	沙子
+Sandstone	砂岩
+Sandstone Slab	砂岩台阶
+Sandstone Stairs	砂岩楼梯
+Sapling	树苗
+Sea Grass	海草
+Sea Lantern	海晶灯
+Shrub	灌木
+Shulker Box	潜影盒
+Sign	告示牌
+Skeleton Skull	骷髅头颅
+Slab	台阶
+Slabs	台阶
+Slightly Damaged Anvil	轻微损坏的铁砧
+Slime Block	粘液块
+Smooth Red Sandstone	平滑红砂岩
+Smooth Sandstone	平滑砂岩
+Snow	雪块
+Snow (Cover)	雪
+Snow (Layer)	雪
+Snow Block	雪块
+Snow Cover	雪
+Soul Sand	灵魂沙
+Sponge	海绵
+Spruce Bark	云杉树皮
+Spruce Button	云杉木按钮
+Spruce Door	云杉木门
+Spruce Fence	云杉木栅栏
+Spruce Fence Gate	云杉木栅栏门
+Spruce Leaves	云杉树叶
+Spruce Pressure Plate	云杉木压力板
+Spruce Sapling	云杉树苗
+Spruce Trapdoor	云杉木活板门
+Spruce Wood	云杉木
+Spruce Wood Planks	云杉木板
+Spruce Wood Slab	云杉台阶
+Spruce Wood Stairs	云杉楼梯
+Stained Clay	染色粘土
+Stained Glass	染色玻璃
+英文名称	中文名称
+Stained Glass Pane	染色玻璃板
+Stairs	楼梯
+Sticky Piston	粘性活塞
+Stone	石头
+Stone Brick	石砖
+Stone Brick Stairs	石砖楼梯
+Stone Bricks	石砖
+Stone Bricks Monster Egg	石砖怪物蛋
+Stone Bricks Slab	石砖台阶
+Stone Bricks Stairs	石砖楼梯
+Stone Button	石质按钮
+Stone Monster Egg	石头怪物蛋
+Stone Pressure Plate	石质压力板
+Stone Slab	石台阶
+Stripped Acacia Bark	去皮金合欢树皮
+Stripped Acacia Log	去皮金合欢木
+Stripped Bark	去皮树皮
+Stripped Birch Bark	去皮白桦树皮
+Stripped Birch Log	去皮白桦木
+Stripped Dark Oak Bark	去皮深色橡树树皮
+Stripped Dark Oak Log	去皮深色橡木
+Stripped Jungle Bark	去皮丛林树皮
+Stripped Jungle Log	去皮丛林木
+Stripped Log	去皮木头
+Stripped Oak Bark	去皮橡树树皮
+Stripped Oak Log	去皮橡木
+Stripped Spruce Bark	去皮云杉树皮
+Stripped Spruce Log	去皮云杉木
+Structure Block	结构方块
+Structure Void	结构空位
+Sugar Cane	甘蔗
+Sugar Canes	甘蔗
+Sunflower	向日葵
+Tall Grass	草丛
+Tall Sea Grass	高海草
+Terracotta	陶瓦
+Tnt	TNT
+Torch	火把
+Trapdoor	活板门
+Trapped Chest	陷阱箱
+Tripwire	绊线
+Tripwire Hook	绊线钩
+Tube Coral	管珊瑚
+Tube Coral Block	管珊瑚块
+Tube Coral Fan	管珊瑚扇
+Turtle Egg	海龟蛋
+Very Damaged Anvil	严重损坏的铁砧
+Vines	藤蔓
+Water	水
+Weighted Pressure Plate	测重压力板
+英文名称	中文名称
+Weighted Pressure Plate (Heavy)	测重压力板（重质）
+Weighted Pressure Plate (Light)	测重压力板（轻质）
+Wet Sponge	湿海绵
+White Tulip	白色郁金香
+Wither Skeleton Skull	凋灵骷髅头颅
+Wood	木头
+Wood Door	木门
+Wood Fence	木栅栏
+Wood Planks	木板
+Wood Slab	木台阶
+Wood Stairs	木楼梯
+Wooden Button	木质按钮
+Wooden Door	木门
+Wooden Pressure Plate	木质压力板
+Wooden Slab	木台阶
+Wooden Trapdoor	木活板门
+Wool	羊毛
+Zombie Head	僵尸的头
+
+
+物品
+英文名称	中文名称
+11 Disc	11唱片
+13 Disc	13唱片
+Acacia Boat	金合欢木船
+Apple	苹果
+Arrow	箭
+Arrow Of Decay	衰变之箭
+Arrow Of Fire Resistance	抗火之箭
+Arrow Of Harming	伤害之箭
+Arrow Of Healing	治疗之箭
+Arrow Of Invisibility	隐身之箭
+Arrow Of Leaping	跳跃之箭
+Arrow Of Luck	幸运之箭
+Arrow Of Night Vision	夜视之箭
+Arrow Of Poison	剧毒之箭
+Arrow Of Regeneration	再生之箭
+Arrow Of Slowness	迟缓之箭
+Arrow Of Splashing	喷溅之箭
+Arrow Of Strength	力量之箭
+Arrow Of Swiftness	迅捷之箭
+Arrow Of The Slow Falling	缓降之箭
+Arrow Of The Turtle Master	神龟之箭
+Arrow Of Water Breathing	水肺之箭
+Arrow Of Weakness	虚弱之箭
+Awkward Lingering Potion	滞留型粗制的药水
+Awkward Potion	粗制的药水
+Awkward Splash Potion	喷溅型粗制药水
+Axe	斧
+Baked Potato	烤马铃薯
+Beetroot	甜菜根
+Beetroot Seeds	甜菜种子
+Beetroot Soup	甜菜汤
+Birch Boat	白桦木船
+Blaze Powder	烈焰粉
+Blaze Rod	烈焰棒
+Blocks Disc	blocks唱片
+Boat	船
+Bone	骨头
+Bone Meal	骨粉
+Book	书
+Book And Quill	书与笔
+Boots	靴子
+Bottle O' Enchanting	附魔之瓶
+Bow	弓
+Bowl	碗
+Bread	面包
+Brick	红砖
+Brick (Item)	红砖
+Bucket	桶
+Buried Treasure Explorer Map	藏宝图
+Buried Treasure Map	藏宝图
+英文名称	中文名称
+Cactus Green	仙人掌绿
+Carrot	胡萝卜
+Carrot On A Stick	胡萝卜钓竿
+Cat Disc	cat唱片
+Chain Armor	锁链盔甲
+Chain Boots	锁链靴子
+Chain Chestplate	锁链胸甲
+Chain Helmet	锁链头盔
+Chain Leggings	锁链护腿
+Chainmail Boots	锁链靴子
+Chainmail Chestplate	锁链胸甲
+Chainmail Helmet	锁链头盔
+Chainmail Leggings	锁链护腿
+Charcoal	木炭
+Chestplate	胸甲
+Chirp Disc	chirp唱片
+Chorus Fruit	紫颂果
+Clay	粘土
+Clock	钟
+Clownfish	小丑鱼
+Coal	煤炭
+Cocoa Beans	可可豆
+Cod Bucket	鳕鱼桶
+Colored Dye	有色染料
+Compass	指南针
+Cooked Chicken	熟鸡肉
+Cooked Cod	熟鳕鱼
+Cooked Fish	熟鱼
+Cooked Mutton	熟羊肉
+Cooked Porkchop	熟猪排
+Cooked Rabbit	熟兔肉
+Cooked Salmon	熟鲑鱼
+Cookie	曲奇
+Cyan Dye	青色染料
+Dandelion Yellow	蒲公英黄
+Dark Oak Boat	深色橡木船
+Debug Stick	调试棒
+Diamond	钻石
+Diamond Armor	钻石盔甲
+Diamond Axe	钻石斧
+Diamond Boots	钻石靴子
+Diamond Chestplate	钻石胸甲
+Diamond Helmet	钻石头盔
+Diamond Hoe	钻石锄
+Diamond Horse Armor	钻石马铠
+Diamond Leggings	钻石护腿
+Diamond Pickaxe	钻石镐
+Diamond Shovel	钻石锹
+Diamond Sword	钻石剑
+Diamond Tools	钻石工具
+英文名称	中文名称
+Dragon'S Breath	龙息
+Dried Kelp	干海带
+Dye	染料
+Egg	鸡蛋
+Elytra	鞘翅
+Emerald	绿宝石
+Empty Map	空地图
+Enchanted Book	附魔书
+Enchanted Golden Apple	附魔金苹果
+Ender Pearl	末影珍珠
+Explorer Map	探险家地图
+Eye Of Ender	末影之眼
+Far Disc	far唱片
+Feather	羽毛
+Fermented Spider Eye	发酵蛛眼
+Fire Charge	火焰弹
+Firework Rocket	烟花火箭
+Firework Star	烟火之星
+Fish	鱼
+Fishing Rod	钓鱼竿
+Flint	燧石
+Flint And Steel	打火石
+Fuel	燃料
+Ghast Tear	恶魂之泪
+Glass Bottle	玻璃瓶
+Glistering Melon	闪烁的西瓜
+Glowstone Dust	荧石粉
+Gold Horse Armor	金马铠
+Gold Ingot	金锭
+Gold Nugget	金粒
+Golden Apple	金苹果
+Golden Armor	金盔甲
+Golden Axe	金斧
+Golden Boots	金靴子
+Golden Carrot	金胡萝卜
+Golden Chestplate	金胸甲
+Golden Helmet	金头盔
+Golden Hoe	金锄
+Golden Horse Armor	金马铠
+Golden Leggings	金护腿
+Golden Pickaxe	金镐
+Golden Shovel	金锹
+Golden Sword	金剑
+Golden Tools	金质工具
+Gray Dye	灰色染料
+Gunpowder	火药
+Heart Of The Sea	海洋之心
+Helmet	头盔
+Hoe	锄
+Horse Armor	马铠
+英文名称	中文名称
+Ink Sac	墨囊
+Iron Armor	铁盔甲
+Iron Axe	铁斧
+Iron Boots	铁靴子
+Iron Chestplate	铁胸甲
+Iron Helmet	铁头盔
+Iron Hoe	铁锄
+Iron Horse Armor	铁马铠
+Iron Ingot	铁锭
+Iron Leggings	铁护腿
+Iron Nugget	铁粒
+Iron Pickaxe	铁镐
+Iron Shovel	铁锹
+Iron Sword	铁剑
+Iron Tools	铁质工具
+Item Frame	物品展示框
+Jungle Boat	丛林木船
+Kelp	海带
+Knowledge Book	知识之书
+Lapis Lazuli	青金石
+Lava Bucket	熔岩桶
+Lead	拴绳
+Leather	皮革
+Leather Armor	皮革盔甲
+Leather Boots	皮革靴子
+Leather Cap	皮革帽子
+Leather Horse Armor	皮革马铠
+Leather Pants	皮革裤子
+Leather Tunic	皮革外套
+Leggings	护腿
+Light Blue Dye	淡蓝色染料
+Light Gray Dye	淡灰色染料
+Lime Dye	黄绿色染料
+Lingering Potion	滞留药水
+Lingering Potion Of Decay	滞留型衰变药水
+Lingering Potion Of Fire Resistance	滞留型抗火药水
+Lingering Potion Of Harming	滞留型伤害药水
+Lingering Potion Of Healing	滞留型治疗药水
+Lingering Potion Of Invisibility	滞留型隐身药水
+Lingering Potion Of Leaping	滞留型跳跃药水
+Lingering Potion Of Luck	滞留型幸运药水
+Lingering Potion Of Night Vision	滞留型夜视药水
+Lingering Potion Of Poison	滞留型剧毒药水
+Lingering Potion Of Regeneration	滞留型再生药水
+Lingering Potion Of Slowness	滞留型迟缓药水
+Lingering Potion Of Strength	滞留型力量药水
+Lingering Potion Of Swiftness	滞留型迅捷药水
+Lingering Potion Of The Slow Falling	滞留型缓降药水
+Lingering Potion Of The Turtle Master	滞留型神龟药水
+Lingering Potion Of Water Breathing	滞留型水肺药水
+英文名称	中文名称
+Lingering Potion Of Weakness	滞留型虚弱药水
+Lingering Water Bottle	滞留型水瓶
+Magenta Dye	品红色染料
+Magma Cream	岩浆膏
+Mall Disc	mall唱片
+Map	地图
+Mellohi Disc	mellohi唱片
+Melon	西瓜片
+Melon Seeds	西瓜种子
+Melon Slice	西瓜片
+Milk	牛奶
+Minecart	矿车
+Minecart With Chest	运输矿车
+Minecart With Command Block	命令方块矿车
+Minecart With Furnace	动力矿车
+Minecart With Hopper	漏斗矿车
+Minecart With Spawner	刷怪箱矿车
+Minecart With Tnt	TNT矿车
+Mundane Lingering Potion	滞留型平凡的药水
+Mundane Potion	平凡的药水
+Mundane Splash Potion	喷溅型平凡的药水
+Mushroom Stew	蘑菇煲
+Music Disc	音乐唱片
+Name Tag	命名牌
+Nautilus Shell	鹦鹉螺壳
+Nether Brick (Item)	地狱砖
+Nether Quartz	下界石英
+Nether Star	下界之星
+Oak Boat	橡木船
+Ocean Explorer Map	海洋探险家地图
+Orange Dye	橙色染料
+Painting	画
+Paper	纸
+Phantom Membrane	幻翼膜
+Pickaxe	镐
+Pink Dye	粉红色染料
+Poisonous Potato	毒马铃薯
+Popped Chorus Fruit	爆裂紫颂果
+Potato	马铃薯
+Potion	药水
+Potion Of Decay	衰变药水
+Potion Of Fire Resistance	抗火药水
+Potion Of Harming	伤害药水
+Potion Of Healing	治疗药水
+Potion Of Invisibility	隐身药水
+Potion Of Leaping	跳跃药水
+Potion Of Luck	幸运药水
+Potion Of Night Vision	夜视药水
+Potion Of Poison	剧毒药水
+Potion Of Regeneration	再生药水
+英文名称	中文名称
+Potion Of Slow Falling	缓降药水
+Potion Of Slowness	迟缓药水
+Potion Of Strength	力量药水
+Potion Of Swiftness	迅捷药水
+Potion Of The Slow Falling	缓降药水
+Potion Of The Turtle Master	神龟药水
+Potion Of Water Breathing	水肺药水
+Potion Of Weakness	虚弱药水
+Prismarine Crystals	海晶砂粒
+Prismarine Shard	海晶碎片
+Puffer Fish Bucket	河豚桶
+Pufferfish	河豚
+Pumpkin Pie	南瓜派
+Pumpkin Seeds	南瓜种子
+Purple Dye	紫色染料
+Rabbit Hide	兔子皮
+Rabbit Stew	兔肉煲
+Rabbit'S Foot	兔子脚
+Rails	铁轨
+Raw Beef	生牛肉
+Raw Chicken	生鸡肉
+Raw Cod	生鳕鱼
+Raw Fish	生鱼
+Raw Mutton	生羊肉
+Raw Porkchop	生猪排
+Raw Rabbit	生兔肉
+Raw Salmon	生鲑鱼
+Redstone	红石粉
+Redstone Dust	红石粉
+Rose	玫瑰
+Rose Red	玫瑰红
+Rotten Flesh	腐肉
+Saddle	鞍
+Salmon Bucket	鲑鱼桶
+Scute	鳞甲
+Sea Pickle	海泡菜
+Seeds	小麦种子
+Shears	剪刀
+Shield	盾牌
+Shovel	锹
+Shulker Box	潜影盒
+Shulker Shell	潜影壳
+Slimeball	粘液球
+Snowball	雪球
+Spawn Egg	刷怪蛋
+Spectral Arrow	光灵箭
+Spider Eye	蜘蛛眼
+Splash Awkward Potion	喷溅型粗制的药水
+Splash Mundane Potion	喷溅型平凡的药水
+Splash Potion	喷溅药水
+英文名称	中文名称
+Splash Potion Of Decay	喷溅型衰变药水
+Splash Potion Of Fire Resistance	喷溅型 抗火药水
+Splash Potion Of Harming	喷溅型伤害药水
+Splash Potion Of Healing	喷溅型治疗药水
+Splash Potion Of Invisibility	喷溅型隐身药水
+Splash Potion Of Leaping	喷溅型跳跃药水
+Splash Potion Of Luck	喷溅型幸运药水
+Splash Potion Of Night Vision	喷溅型夜视药水
+Splash Potion Of Poison	喷溅型剧毒药水
+Splash Potion Of Regeneration	喷溅型再生药水
+Splash Potion Of Slowness	喷溅型迟缓药水
+Splash Potion Of Strength	喷溅型力量药水
+Splash Potion Of Swiftness	喷溅型迅捷药水
+Splash Potion Of The Slow Falling	喷溅型缓降药水
+Splash Potion Of The Turtle Master	喷溅型神龟药水
+Splash Potion Of Water Breathing	喷溅型水肺药水
+Splash Potion Of Weakness	喷溅型虚弱药水
+Splash Water Bottle	喷溅型水瓶
+Spruce Boat	云杉木船
+Stal Disc	stal唱片
+Steak	牛排
+Stick	木棍
+Stone Axe	石斧
+Stone Hoe	石锄
+Stone Pickaxe	石镐
+Stone Shovel	石锹
+Stone Sword	石剑
+Stone Tools	石质工具
+Strad Disc	strad唱片
+String	线
+Sugar	糖
+Sword	剑
+Thick Lingering Potion	滞留型浓稠的药水
+Thick Potion	浓稠的药水
+Thick Splash Potion	喷溅型浓稠的药水
+Tipped Arrow	药箭
+Totem Of Undying	不死图腾
+Trident	三叉戟
+Tropical Fish Bucket	热带鱼桶
+Turtle Shell	海龟壳
+Uncraftable Lingering Potion	不可合成的滞留型药水
+Uncraftable Potion	不可合成的药水
+Uncraftable Splash Potion	不可合成的喷溅型药水
+Uncraftable Tipped Arrow	不可合成的药箭
+Undying Totem	不死图腾
+Wait Disc	wait唱片
+Ward Disc	ward唱片
+Water Bottle	水瓶
+Water Bucket	水桶
+Wheat	小麦
+
+
+实体/药水/效果
+英文名称	中文名称
+Absorption	伤害吸收
+Bad Luck	霉运
+Bat	蝙蝠
+Beach	沙滩
+Birch Forest	桦木森林
+Birch Forest Hills	桦木森林山丘
+Birch Forest Hills M	桦木森林山丘 M
+Birch Forest M	桦木森林 M
+Black	黑色
+Black Cat	猫
+Blaze	烈焰人
+Blindness	失明
+Blue	蓝色
+Blue Spider	洞穴蜘蛛
+Blue Wither Skull	凋灵之首
+Brown	棕色
+Cat	猫
+Cave Spider	洞穴蜘蛛
+Chicken	鸡
+Chicken Jockey	鸡骑士
+Cod	鳕鱼
+Cold Beach	寒冷沙滩
+Cold Taiga	冷针叶林
+Cold Taiga Hills	冷针叶林山丘
+Cold Taiga M	冷针叶林 M
+Conduit Power	潮涌能量
+Cow	牛
+Creeper	爬行者
+Crystal	末影水晶
+Cyan	青色
+Deep Ocean	深海
+Defense	抗性提升
+Desert	沙漠
+Desert M	沙漠 M
+Deserthills	沙漠山丘
+Dolphin	海豚
+Donkey	驴
+Drowned	溺尸
+Elder Guardian	远古守卫者
+Ender Crystal	末影水晶
+Ender Dragon	末影龙
+Enderdragon	末影龙
+Enderman	末影人
+Endermite	末影螨
+Evoker	唤魔者
+Experience-Orb	经验球
+Extreme Hills	峭壁
+Extreme Hills Edge	悬崖
+Extreme Hills M	峭壁 M
+Extreme Hills+	峭壁+
+英文名称	中文名称
+Extreme Hills+ M	峭壁+ M
+Fatigue	挖掘疲劳
+Fire Resistance	防火
+Fireresistance	防火
+Flower Forest	繁花森林
+Forest	森林
+Foresthills	森林山丘
+Frozenocean	冻洋
+Frozenriver	冻河
+Ghast	恶魂
+Giant	巨人
+Ginger Cat	猫
+Glowing	发光
+Gray	灰色
+Green	绿色
+Guardian	守卫者
+Haste	急迫
+Health Boost	生命提升
+Healthboost	生命提升
+Hell	地狱（下界）
+Horse	马
+Human	人类
+Hunger	饥饿
+Husk	尸壳
+Ice Mountains	雪山
+Ice Plains	冰原
+Ice Plains Spikes	冰刺平原
+Illusioner	幻术师
+Invisibility	隐身
+Iron Golem	铁傀儡
+Jump	跳跃提升
+Jump Boost	跳跃提升
+Jungle	丛林
+Jungle Edge M	丛林边缘 M
+Jungle M	丛林 M
+Jungleedge	丛林边缘
+Junglehills	丛林山丘
+Killer Bunny	杀手兔
+Killer Rabbit	杀手兔
+Levitation	飘浮
+Light Blue	淡蓝色
+Light Gray	淡灰色
+Lime	黄绿色
+Llama	羊驼
+Luck	幸运
+Magenta	品红色
+Magma Cube	岩浆怪
+Magmacube	岩浆怪
+Mega Spruce Taiga	红木森林
+Mega Taiga	大型针叶林
+英文名称	中文名称
+Mega Taiga Hills	大型针叶林山丘
+Mesa	平顶山
+Mesa (Bryce)	平顶山（岩柱）
+Mesa Plateau	平顶山高原
+Mesa Plateau F	平顶山高原 F
+Mesa Plateau F M	平顶山高原 F M
+Mesa Plateau M	平顶山高原 M
+Mining Fatigue	挖掘疲劳
+Mooshroom	哞菇
+Mule	骡
+Mushroomisland	蘑菇岛
+Mushroomislandshore	蘑菇岛岸
+Nausea	反胃
+Night Vision	夜视
+Nightvision	夜视
+Npc	NPC
+Ocean	海洋
+Ocelot	豹猫
+Orange	橙色
+Ozelot	豹猫
+Parrot	鹦鹉
+Phantom	幻翼
+Pig	猪
+Pig Zombie	僵尸猪人
+Pigman	猪人
+Pigzombie	僵尸猪人
+Pink	粉红色
+Plains	草原
+Player	玩家
+Poison	中毒
+Polar Bear	北极熊
+Puffer Fish	河豚
+Purple	紫色
+Rabbit	兔子
+Red	红色
+Red Cat	猫
+Redwood Taiga Hills M	红木山丘
+Regeneration	生命恢复
+Resistance	抗性提升
+River	河流
+Roofed Forest	黑森林
+Roofed Forest M	黑森林 M
+Salmon	鲑鱼
+Savanna	热带草原
+Savanna M	热带草原 M
+Savanna Plateau	热带高原
+Savanna Plateau M	热带高原 M
+Sheep	羊
+Shulker	潜影贝
+Shulker-Projectile	潜影贝导弹
+英文名称	中文名称
+Siamese Cat	猫
+Silver Fish	蠹虫
+Silverfish	蠹虫
+Skeleton	骷髅
+Skeleton Horse	骷髅马
+Skeleton Horseman	骷髅骑手
+Slime	史莱姆
+Slow	迟缓
+Slow Falling	缓降
+Slowness	迟缓
+Snow Golem	雪傀儡
+Snow Golem Old	雪傀儡
+Snowgolem	雪傀儡
+Snowgolemold	雪傀儡
+Snowman	雪傀儡
+Speed	速度
+Spider	蜘蛛
+Spider Blue	洞穴蜘蛛
+Spider Cave	洞穴蜘蛛
+Spider Day	蜘蛛
+Spider Jockey	蜘蛛骑士
+Squid	鱿鱼
+Stone Beach	石滩
+Stray	流浪者
+Strength	力量
+Sunflower Plains	向日葵草原
+Swampland	沼泽
+Swampland M	沼泽 M
+Swiftness	速度
+Taiga	针叶林
+Taiga M	针叶林 M
+Taigahills	针叶林山丘
+The End	末路之地（空岛）
+The Player	玩家
+The Void	虚空
+Tropical Fish	热带鱼
+Turtle	海龟
+Vex	恼鬼
+Villager	村民
+Vindicator	卫道士
+Water Breathing	水下呼吸
+Waterbreathing	水下呼吸
+Weakness	虚弱
+White	白色
+Witch	女巫
+Wither	凋灵
+Wither Skeleton	凋灵骷髅
+Wither Skull Blue	凋灵之首
+Wolf	狼
+Wolf Angry	狼
+
+
+附魔
+EID	英文名称	中文译名
+0	Protection	保护
+1	Fire Protection	火焰保护
+2	Feather Falling	摔落保护
+3	Blast Protection	爆炸保护
+4	Projectile Protection	弹射物保护
+5	Respiration	水下呼吸
+6	Aqua Affinity	水下速掘
+7	Thorns	荆棘
+8	Depth Strider	深海探索者
+9	Frost Walker	冰霜行者
+10	Curse of Binding	绑定诅咒
+16	Sharpness	锋利
+17	Smite	亡灵杀手
+18	Bane of Arthropods	节肢杀手
+19	Knockback	击退
+20	Fire Aspect	火焰附加
+21	Looting	抢夺
+22	Sweeping Edge	横扫之刃
+32	Efficiency	效率
+33	Silk Touch	精准采集
+34	Unbreaking	耐久
+35	Fortune	时运
+48	Power	力量
+49	Punch	冲击
+50	Flame	火矢
+51	Infinity	无限
+61	Luck of the Sea	海之眷顾
+62	Lure	饵钓
+70	Mending	经验修补
+71	Curse of Vanishing	消失诅咒
+?	Loyalty	忠诚
+?	Channeling	引雷
+?	Riptide	激流
+?	Impaling	穿刺
+
+
+
+游戏难度和模式
+英文名称	中文译名
+Peaceful	和平
+Easy	简单
+Normal	普通
+Hard	困难
+Creative	创造模式
+Survival	生存模式
+Hardcore	极限模式
+Adventure	冒险模式
+Survival Singleplayer （SSP）	单人生存模式
+Survival Multiplayer （SMP）	多人生存模式
+Creative Singleplayer （CSP）	单人创造模式
+Creative Multiplayer （CMP）	多人创造模式
+Hardcore Singleplayer （HSP）	单人极限模式
+Hardcore Multiplayer （HMP）	多人极限模式
+Adventure Singleplayer （ASP）	单人冒险模式
+Adventure Multiplayer （AMP）	多人冒险模式
+游戏版本及更新
+
+
+
+英文名称	中文译名
+Minecraft	Minecraft（不翻译）
+Alpha	Alpha（不翻译）
+Indev	Indev（不翻译）
+Infdev	Infdev（不翻译）
+Beta	Beta（不翻译）
+Classic	Classic（不翻译）
+Pocket Edition	携带版
+Development versions / prerelease	预览版本
+(Weekly) Snapshot	（每周）快照
+Official game	正式版
+Upcoming features	未来展望
+Pocket Edition upcoming features	携带版未来展望
+Realm	Realm（不翻译）
+
+
+
+游戏内各数据值
+英文名称	中文译名
+Block ID	方块 ID
+Data Values	数据值
+Damage Values	损害值
+Item ID	物品ID
+Entity ID	实体ID
+Biome ID	生物群系ID
+Data	数据
+Block Entity	方块实体值
+
+
+
+生物群系
+号码	生物群系	中文译名	变种号码	变种名	变种译名
+0	Ocean	海洋	N/A	N/A	
+1	Plains	草原	129	Sunflower Plains	向日葵草原
+2	Desert	沙漠	130	Desert M	沙漠 M
+3	Extreme Hills	峭壁	131	Extreme Hills M	峭壁 M
+4	Forest	森林	132	Flower Forest	繁花森林
+5	Taiga	针叶林	133	Taiga M	针叶林 M
+6	Swampland	沼泽	134	Swampland M	沼泽 M
+7	River	河流	N/A	N/A	
+8	Hell	地狱（下界）	N/A	N/A	
+9	Sky	空岛（末地）	N/A	N/A	
+10	FrozenOcean	冻洋	N/A	N/A	
+11	FrozenRiver	冻河	N/A	N/A	
+12	Ice Plains	冰原	140	Ice Plains Spikes	冰刺平原
+13	Ice Mountains	雪山	N/A	N/A	
+14	MushroomIsland	蘑菇岛	N/A	N/A	
+15	MushroomIslandShore	蘑菇岛岸	N/A	N/A	
+16	Beach	沙滩	N/A	N/A	
+17	DesertHills	沙漠山丘	N/A	N/A	
+18	ForestHills	森林山丘	N/A	N/A	
+19	TaigaHills	针叶林山丘	N/A	N/A	
+20	Extreme Hills Edge	悬崖	N/A	N/A	
+21	Jungle	丛林	149	Jungle M	丛林 M
+22	JungleHills	丛林山丘	N/A	N/A	
+23	JungleEdge	丛林边缘	151	JungleEdge M	丛林边缘 M
+24	Deep Ocean	深海	N/A	N/A	
+25	Stone Beach	石滩	N/A	N/A	
+26	Cold Beach	寒冷沙滩	N/A	N/A	
+27	Birch Forest	桦木森林	155	Birch Forest M	桦木森林 M
+28	Birch Forest Hills	桦木森林山丘	156	Birch Forest Hills M	桦木森林山丘 M
+29	Roofed Forest	黑森林	157	Roofed Forest M	黑森林 M
+30	Cold Taiga	冷针叶林	158	Cold Taiga M	冷针叶林 M
+31	Cold Taiga Hills	冷针叶林山丘	N/A	N/A	
+32	Mega Taiga	大型针叶林	160	Mega Spruce Taiga	红木森林
+33	Mega Taiga Hills	大型针叶林山丘	161	Mega Spruce Taiga Hills	红木山丘
+34	Extreme Hills+	峭壁+	162	Extreme Hills+ M	峭壁+ M
+35	Savanna	热带草原	163	Savanna M	热带草原 M
+36	Savanna Plateau	热带高原	164	Savanna Plateau M	热带高原 M
+37	Mesa	平顶山	165	Mesa (Bryce)	平顶山（岩柱）
+38	Mesa Plateau F	平顶山高原 F	166	Mesa Plateau F M	平顶山高原 F M
+39	Mesa Plateau	平顶山高原	167	Mesa Plateau M	平顶山高原 M
+
+
+
+结构
+英文名称	中文译名
+Hills	山丘
+Floating "Islands"	浮“岛”
+Lakes	湖泊/湖
+Springs	山泉/熔岩泉
+Trees	树木/树
+Huge Mushrooms	巨型蘑菇
+Caverns	洞穴
+Mineral Veins	矿脉
+Dungeons	地牢
+Rivers	河流/河
+Beaches	沙滩
+Villages	村庄
+Ravines	峡谷
+Abandoned Mine Shafts	废弃矿井
+Strongholds	要塞
+Desert Wells	沙漠水井
+Oceans	海洋/海
+Cliffs	悬崖
+Extreme Hills	峭壁
+Mountains	山脉
+Lava Sea	熔岩海
+Nether Fortresses	下界要塞
+Obsidian Spikes	黑曜石尖塔
+Swamp Huts	沼泽小屋
+
+
+
+其他
+英文名称	中文译名
+Biome	生物群系
+Stronghold	要塞
+Abandoned Mineshaft	废弃矿井
+Dungeon	地牢
+The Nether	下界/地狱
+Overworld	主世界
+The End	末路之地
+Block	方块
+Item	物品
+Mob	生物
+Entities	实体
+Spawn	生成
+Smelt（概括）
+Smelt（矿物）
+Smelt（普通）
+Smelt（食物）
+烧炼
+冶炼
+烧制
+烹饪
+英文名称	中文译名
+Farming	耕种/种植
+Enchantment	魔咒
+Enchantability	可附魔性
+food Saturation Level	食物饱和度
+Trivia	你知道吗
+Inventory	物品栏
+See also	另见
+Reference	参考
+Chunk	区块
+Version History	历史记录
+Texture	材质
+Oak Wood	橡木
+Pine/Spruce Wood	松木/云杉
+Birch Wood	桦木
+Collision Box/
+Hitbox	碰撞箱
+
+
+英文名称	中文译名
+Gallery	画廊
+Damage Value	损害值
+Fireball	火球（通称）
+Ghast Fireball	恶魂火球
+Blaze Fireball	烈焰人火球（本体为火焰弹）
+Void	虚空
+Game Mode	游戏模式
+Superflat	超平坦(世界)
+Sprinting	疾跑
+Splash (text)	闪烁标语
+Heads-up display (HUD)	抬头显示器/平视显示器/HUD（常用HUD
