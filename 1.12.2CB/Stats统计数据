@@ -1,8 +1,7 @@
 关于统计人数的判定:
-创建计分板:// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}/scoreboard objectives add show dummy 显示
-启用[RCB,On]:/testfor @a
-设置相关变量:
+创建计分板:/scoreboard objectives add show dummy 显示
+启用[RCB,On,tag=1]:/testfor @a
+设置显示位置:/scoreboard objectives setdisplay sidebar show
+设置相关变量:/scoreboard players set 人数 show 0
+设RCB(1)坐标为(1,1,1)
+启用stats:/stats block 1 1 1 set AffectedEntities 人数 show
